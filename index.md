@@ -38,14 +38,18 @@ Tools: Excel, SQL, Tableau
 - Validated the data (particularly purchase amounts, purchase dates, and customer ages)
 - <u>Found and excluded a purchase date related outlier</u>
   
-3. Created data visualizations in Tableau.
+3. Created pivot tables in Excel and data visualizations in Tableau.
 
 ### Analysis & Visualizations
 ### Sales by Date - Outlier Included
 [![Sales by Date - Outlier Included](images/SalesbyDateOutlier.PNG)](images/SalesbyDateOutlier.PNG)
 
+[![Pivot Table Top Purchase Dates](images/PTTopPurchaseDates.PNG)](images/PTTopPurchaseDates.PNG)
+
 ### Sales by Month - Outlier Excluded
 [![Sales by Month - Outlier Excluded](images/SalesbyMonth.PNG)](images/SalesbyMonth.PNG)
+
+[![Pivot Table Top Months](images/PTTopMonths.PNG)](images/PTTopMonths.PNG)
 
 ### Sales by Size
 [![Sales by Size](images/SalesbySize.PNG)](images/SalesbySize.PNG)
@@ -77,9 +81,15 @@ January & February due to post-holiday spending and winter lull
 July due to summer slump, people going on vacation
 
 ### Conclusion & Recommendations
-- Sales peak in Q4 each year.
-- Region West has the highest growth rate.
-- Recommend boosting inventory for Q4 promotions.
+Inventory Planning
+- Stock up on inventory before peak seasons to meet the high demand, particularly August & September for back to school and November to December for the holidays
+
+Marketing
+- Utilize email marketing, loyalty programs and social media to maintain engagement and attract traffic during low seasons
+
+Pricing
+- Offer strategic discounts immediately post-season to attract bargain shoppers and help clear out older stock
+- Offer bundle or limited-time discounts during slower seasons to incentivize purchases
 
 ### Skills Demonstrated
 SQL querying, Excel analysis, Tableau data visualization.
