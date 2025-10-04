@@ -11,6 +11,10 @@ Poppy is considering starting her own boutique but is uncertain about how season
 ### Solution
 To address this, I analyzed clothing retail data to understand how seasons influence demand for clothing products. Based on the findings, I will make recommendations to help Poppy guide decisions around inventory planning, marketing, and pricing strategies for her new boutique.
 
+### Hypothesis
+
+The transition seasons of Fall and Spring have the highest overall sales compared to Summer and Winter.
+
 ### Data
 <u>Dataset 1: Retail Fashion Boutique Data Sales Analytics 2025</u>
 
@@ -41,12 +45,39 @@ Tools: Excel, SQL, Tableau
 3. Created data visualizations in Tableau.
 
 ### Analysis & Visualizations
-![Sales by Region](images/sales_by_region.png)
+![Sales by Date - Outlier Included](images/SalesbyDateOutlier.PNG)
 
-### Results
+![Sales by Month - Outlier Excluded](images/SalesbyMonth.PNG)
+
+![Sales by Size](images/SalesbySize.PNG)
+
+![Sales by Discount](images/SalesbyDiscount.PNG)
+
+![Representation by Age/Gender Cohorts](images/RepbyAgeGenderCohorts.PNG)
+
+![Sales by Season and Category](images/SalesbySeasonCategory.PNG)
+
+### External Research
+1. [Statistics Canada Article](https://www.statcan.gc.ca/o1/en/plus/5241-its-second-most-wonderful-time-year-canadian-retailers)
+- Best
+Holiday Season (particularly December) did the best in retail
+Spring season (particularly May) did the best overall in clothing retail
+- Worst
+January & February as people spend less after holiday season and impact of weather
+
+2. [Confiz Article](https://www.confiz.com/blog/best-and-worst-months-for-retail-sales/)
+- Best:
+Holiday season (particularly November and December)
+Back to school season (particularly August and September)
+Spring season (particularly March and Spring)
+- Worst:
+January & February due to post-holiday spending and winter lull
+July due to summer slump, people going on vacation
+
+### Conclusion & Recommendations
 - Sales peak in Q4 each year.
 - Region West has the highest growth rate.
 - Recommend boosting inventory for Q4 promotions.
 
 ### Skills Demonstrated
-SQL querying, Excel analysis, Tableau dashboarding, data visualization.
+SQL querying, Excel analysis, Tableau data visualization.
