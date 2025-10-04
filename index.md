@@ -16,14 +16,10 @@ To address this, I analyzed clothing retail data to understand how seasons influ
 The transition seasons of Fall and Spring have the highest overall sales compared to Summer and Winter.
 
 ### Data
-<u>Dataset 1: Retail Fashion Boutique Data Sales Analytics 2025</u>
-
-- [Kaggle Dataset](fashion_boutique_dataset.xlsx)
+[Dataset 1: Retail Fashion Boutique Data Sales Analytics 2025](fashion_boutique_dataset.xlsx)
 - A synthetic fashion retail dataset containing 2,176 real-world style records spanning seasonal collections, customer purchasing behavior, pricing strategies, and return analytics
 
-<u>Dataset 2: Consumer Behavior and Shopping Habits Dataset</u>
-
-- [Kaggle Dataset](shopping_behavior_updated_supplemental.xlsx)
+[Dataset 2: Consumer Behavior and Shopping Habits Dataset](shopping_behavior_updated_supplemental.xlsx)
 - A synthetic dataset containing approximately 3900 records providing insights into consumers' preferences, tendencies, and patterns during their shopping experiences
    
 Tools: Excel, SQL, Tableau
