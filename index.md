@@ -30,6 +30,7 @@ Tools: Excel, SQL, Tableau
 - Formatted data types
 - Converted the markdown percentage from decimal to percentage
 - Checked for misspellings using the filter function
+- <u>Found and excluded a purchase date related outlier</u>
   
 2. Cleaned and structured the data in SQL.
 - Changed all column names delimited by spaces to be delimited by underscores
@@ -65,10 +66,6 @@ SELECT age
 FROM shopping_trends
 WHERE age > 120
 ```
-
-- <u>Found and excluded a purchase date related outlier</u>
-  
-3. Created pivot tables in Excel and data visualizations in Tableau.
 
 ## SQL Queries
 
