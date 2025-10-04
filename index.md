@@ -55,6 +55,7 @@ WHERE customer_id IS NULL
 ```
 
 - Validated the data (particularly purchase amounts, purchase dates, and customer ages)
+  
 ```
 SELECT purchase_amount
 FROM shopping_trends
@@ -72,6 +73,7 @@ WHERE age > 120
 ## SQL Queries
 
 ### Which season had the highest sales overall?
+
 ```
 SELECT SUM(purchase_amount)
 FROM shopping_trends
@@ -91,6 +93,7 @@ WHERE season = ‘summer’
 ```
 
 ### Which category had the highest sales in which seasons?
+
 ```
 SELECT
 category,
@@ -101,6 +104,7 @@ GROUP BY category, season
 ```
 
 ### Which colours were most popular overall?
+
 ```
 SELECT colour, COUNT(*)
 FROM shopping_trends
@@ -108,6 +112,7 @@ GROUP BY colour
 ```
 
 ### Which age/gender cohort are the most/least represented in the dataset?
+
 ```
 SELECT
     CASE 
