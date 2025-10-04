@@ -67,7 +67,7 @@ FROM shopping_trends
 WHERE age > 120
 ```
 
-## SQL Queries
+## SQL Analysis
 
 ### Which season had the highest sales overall?
 
