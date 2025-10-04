@@ -45,17 +45,17 @@ Tools: Excel, SQL, Tableau
 3. Created data visualizations in Tableau.
 
 ### Analysis & Visualizations
-![Sales by Date - Outlier Included](images/SalesbyDateOutlier.PNG)
+[![Sales by Date - Outlier Included](images/SalesbyDateOutlier.PNG)](images/SalesbyDateOutlier.PNG)
 
-![Sales by Month - Outlier Excluded](images/SalesbyMonth.PNG)
+[![Sales by Month - Outlier Excluded](images/SalesbyMonth.PNG)](images/SalesbyMonth.PNG)
 
-![Sales by Size](images/SalesbySize.PNG)
+[![Sales by Size](images/SalesbySize.PNG)](images/SalesbySize.PNG)
 
-![Sales by Discount](images/SalesbyDiscount.PNG)
+[![Sales by Discount](images/SalesbyDiscount.PNG)](images/SalesbyDiscount.PNG)
 
-![Representation by Age/Gender Cohorts](images/RepbyAgeGenderCohorts.PNG)
+[![Representation by Age/Gender Cohorts](images/RepbyAgeGenderCohorts.PNG)](images/RepbyAgeGenderCohorts.PNG)
 
-![Sales by Season and Category](images/SalesbySeasonCategory.PNG)
+[![Sales by Season and Category](images/SalesbySeasonCategory.PNG)](images/SalesbySeasonCategory.PNG)
 
 ### External Research
 1. [Statistics Canada Article](https://www.statcan.gc.ca/o1/en/plus/5241-its-second-most-wonderful-time-year-canadian-retailers)
