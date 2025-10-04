@@ -2,20 +2,20 @@
 
 ## Case Study: Clothing Retail Data Analysis
 
-### Introduction
+## Introduction
 Analyzed two clothing retail datasets to identify trends in product sales and seasonal demand.
 
-### The Problem Statement
+## The Problem Statement
 Poppy is considering starting her own boutique but is uncertain about how seasons impact sales throughout the year. She is interested in how data-driven insights can help start her business.
 
-### Solution
+## Solution
 To address this, I analyzed clothing retail data to understand how seasons influence demand for clothing products. Based on the findings, I will make recommendations to help Poppy guide decisions around inventory planning, marketing, and pricing strategies for her new boutique.
 
-### Hypothesis
+## Hypothesis
 
 The transition seasons of Fall and Spring have the highest overall sales compared to Summer and Winter.
 
-### Data
+## Data
 [Dataset 1: Retail Fashion Boutique Data Sales Analytics 2025](fashion_boutique_dataset.xlsx)
 - A synthetic fashion retail dataset containing 2,176 real-world style records spanning seasonal collections, customer purchasing behavior, pricing strategies, and return analytics
 
@@ -24,7 +24,7 @@ The transition seasons of Fall and Spring have the highest overall sales compare
    
 Tools: Excel, SQL, Tableau
 
-### Process
+## Process
 1. Cleaned the data and created pivot tables in Excel.
 - Checked for duplicates
 - Formatted data types
@@ -40,25 +40,30 @@ Tools: Excel, SQL, Tableau
   
 3. Created pivot tables in Excel and data visualizations in Tableau.
 
-### Analysis & Visualizations
+## Analysis & Visualizations
 ### Sales by Date - Outlier Included
 [![Sales by Date - Outlier Included](images/SalesbyDateOutlier.PNG)](images/SalesbyDateOutlier.PNG)
 
 [![Pivot Table Top Purchase Dates](images/PTTopPurchaseDates.PNG)](images/PTTopPurchaseDates.PNG)
+
 
 ### Sales by Month - Outlier Excluded
 [![Sales by Month - Outlier Excluded](images/SalesbyMonth.PNG)](images/SalesbyMonth.PNG)
 
 [![Pivot Table Top Months](images/PTTopMonths.PNG)](images/PTTopMonths.PNG)
 
+
 ### Sales by Size
 [![Sales by Size](images/SalesbySize.PNG)](images/SalesbySize.PNG)
+
 
 ### Sales by Discount
 [![Sales by Discount](images/SalesbyDiscount.PNG)](images/SalesbyDiscount.PNG)
 
+
 ### Representation by Age/Gender Cohorts
 [![Representation by Age/Gender Cohorts](images/RepbyAgeGenderCohorts.PNG)](images/RepbyAgeGenderCohorts.PNG)
+
 
 ### Sales by Season and Category
 [![Sales by Season and Category](images/SalesbySeasonCategory.PNG)](images/SalesbySeasonCategory.PNG)
