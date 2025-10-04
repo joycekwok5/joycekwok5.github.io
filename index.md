@@ -33,42 +33,27 @@ Tools: Excel, SQL, Tableau
   
 2. Cleaned and structured the data in SQL.
 - Changed all column names delimited by spaces to be delimited by underscores
-```sql
+  
+```
 ALTER TABLE shopping_trends
 RENAME COLUMN `Customer ID` TO customer_id
-
-ALTER TABLE shopping_trends
-RENAME COLUMN `Item Purchased` TO item_purchased
-
-ALTER TABLE shopping_trends
-RENAME COLUMN `Purchase Amount` TO purchase_amount
-
-ALTER TABLE shopping_trends
-RENAME COLUMN `Review Rating` TO review_rating
-
-ALTER TABLE shopping_trends
-RENAME COLUMN `Subscription Status` TO subscription_status
-
-ALTER TABLE shopping_trends
-RENAME COLUMN `Shipping Type` TO shipping_type
-
-ALTER TABLE shopping_trends
-RENAME COLUMN `Discount Applied` TO discount_applied
-
-ALTER TABLE shopping_trends
-RENAME COLUMN `Promo Code Used` TO promo_code_used
-
-ALTER TABLE shopping_trends
-RENAME COLUMN `Previous Purchases` TO previous_purchases
-
-ALTER TABLE shopping_trends
-RENAME COLUMN `Payment Method` TO payment_method
-
-ALTER TABLE shopping_trends
-RENAME COLUMN `Frequency of Purchases` TO frequency_of_purchases
+```
 
 - Used "DISTINCT" queries on text-based columns to make sure there were no misspellings
+
+```
+SELECT DISTINCT age
+FROM shopping_trends
+```
+
 - Checked each column for null values
+
+```
+SELECT *
+FROM shopping_trends
+WHERE customer_id IS NULL
+```
+
 - Validated the data (particularly purchase amounts, purchase dates, and customer ages)
 - <u>Found and excluded a purchase date related outlier</u>
   
