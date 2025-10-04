@@ -156,7 +156,7 @@ ORDER BY total DESC
 ### Sales by Season and Category
 [![Sales by Season and Category](images/SalesbySeasonCategory.PNG)](images/SalesbySeasonCategory.PNG)
 
-### External Research
+## External Research
 1. [Statistics Canada Article](https://www.statcan.gc.ca/o1/en/plus/5241-its-second-most-wonderful-time-year-canadian-retailers)
 - Best
 Holiday Season (particularly December) did the best in retail
@@ -173,7 +173,12 @@ Spring season (particularly March and Spring)
 January & February due to post-holiday spending and winter lull
 July due to summer slump, people going on vacation
 
-### Conclusion & Recommendations
+## Conclusion
+
+Overall, my hypothesis had some merit but it did not take into account how impactful the month of December is for sales. That said, the external research confirms that the peak of Winter (January and February) and peak of Summer (July) slow down in sales.
+
+## Recommendations
+
 Inventory Planning
 - Stock up on inventory before peak seasons to meet the high demand, particularly August & September for back to school and November to December for the holidays
 
@@ -184,5 +189,5 @@ Pricing
 - Offer strategic discounts immediately post-season to attract bargain shoppers and help clear out older stock
 - Offer bundle or limited-time discounts during slower seasons to incentivize purchases
 
-### Skills Demonstrated
+## Skills Demonstrated
 SQL querying, Excel analysis, Tableau data visualization.
