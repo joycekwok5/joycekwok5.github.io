@@ -1,4 +1,4 @@
-# Welcome to Joyce's Data Portfolio  
+# Welcome to My Data Portfolio  
 
 ## Case Study: Clothing Retail Data Analysis
 
