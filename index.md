@@ -190,6 +190,3 @@ Marketing
 Pricing
 - Offer strategic discounts immediately post-season to attract bargain shoppers and help clear out older stock
 - Offer bundle or limited-time discounts during slower seasons to incentivize purchases
-
-## Skills Demonstrated
-SQL querying, Excel analysis, Tableau data visualization.
