@@ -1,4 +1,4 @@
-# Welcome to My Data Portfolio  
+# Data Portfolio | Joyce Kwok
 
 ## Case Study: Clothing Retail Data Analysis
 
