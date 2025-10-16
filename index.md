@@ -156,7 +156,7 @@ ORDER BY total DESC
 
 
 ### Sales by Season and Category
-[![Sales by Season and Category](images/SalesbySeasonCategory.PNG)](images/SalesbySeasonCategory.PNG)
+[![Sales by Season and Category](images/salesbycategoriesPNG.PNG)](images/salesbycategoriesPNG.PNG)
 
 ## External Research
 1. [Statistics Canada Article](https://www.statcan.gc.ca/o1/en/plus/5241-its-second-most-wonderful-time-year-canadian-retailers)
